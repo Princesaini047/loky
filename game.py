@@ -4,7 +4,11 @@ import random
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
+<<<<<<< HEAD
 engine.setProperty('voice', voices[1].id)
+=======
+engine.setProperty('voice', voices[0].id)
+>>>>>>> 3b956d9461845c00c5b68f4568640867515d006d
 engine.setProperty("rate", 170)
 
 def speak(audio):
