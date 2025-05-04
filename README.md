@@ -1,4 +1,4 @@
-# Prince,loky
+# Prince
 <!-- This is an repository of an voice assitanc -->
 
 ## Table of Contents
